@@ -25,3 +25,5 @@ The datasets consists of information regarding about 183,412 rides made in the m
 * member_birth_year : Year which member were born
 * member_gender : gender of member(male, female and other)
 * bike_id : unique identifier of bike used for trips:
+## Libraries used
+For this project i made used pandas for Data wrangling while matplotlib and seaborn were used for visualizations.
