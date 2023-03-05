@@ -27,3 +27,19 @@ The datasets consists of information regarding about 183,412 rides made in the m
 * bike_id : unique identifier of bike used for trips:
 ## Libraries used
 For this project i made used pandas for Data wrangling while matplotlib and seaborn were used for visualizations.
+## Summary and Finding
+from the above analysis we arrive at the following conclusion:
+* The male gender made the most trips in the month of february.
+* Most of the trips made falls around 10 minutes.
+* Majority of the trips made were not round trips.
+* The age group of those who patronised ford Gobike were within the age range of 18 to 35 years hence the name young adults.
+* Most of the trips made was were during the day time.
+* Most of the trips were made on Thursday while there was low patronage during the weekend.
+* Most of the trips started between 7 am and 9 am in the morning.
+
+
+Keys Insights
+For this presentation, i focused on the following:
+* i focused on which of the day of the week that most of trips were made.
+* How long does most of trips take and check if the results depends on member gender and user type
+* From our presentation we could see that the other gender's ride last longer than both male and female.
